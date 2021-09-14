@@ -1,0 +1,6 @@
+Ejemplo 2 de GIT.
+
+Agrego archivo nuevo
+
+Voy a modificar ester archivo
+
